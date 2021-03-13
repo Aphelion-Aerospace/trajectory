@@ -1,4 +1,4 @@
-%% shutdown.m
+%% shutdown
 %SHUTDOWN run when the project is closed
 
 % Clear up the workspace

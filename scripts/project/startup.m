@@ -1,4 +1,4 @@
-%% startup.m
+%% startup
 %STARTUP runs when the project is loaded
 
 % Clear up the workspace
