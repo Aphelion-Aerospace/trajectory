@@ -18,4 +18,5 @@ Cannot ensure model stability for versions less.
 
  - Aerospace Blockset
  - Aerospace Toolbox
+ - Parallel Computing
  - Stateflow
