@@ -6,6 +6,7 @@ Repository for MATLAB Project containing the code and models for the Purdue Hybr
 
 ## MATLAB
 
+Recommended MATLAB R2021a.
 MATLAB R2020b or greater.
 Project will **not** work with versions less.
 
