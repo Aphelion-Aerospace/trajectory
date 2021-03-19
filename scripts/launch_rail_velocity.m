@@ -1,11 +1,11 @@
-%% post_launch_rail_velocity
+%% launch_rail_velocity
 % Author: Matthew Mader
 % Email: maderm@purdue.edu
 % Created: 3/17/2021
 % Modified: 3/17/2021
 %
 % Description:
-%   Post process and visualize the data generated from the
+%   Run, post process, and visualize the data generated from the
 %   launch_rail_velocity Simulink model.
 %% Clean workspace
 
